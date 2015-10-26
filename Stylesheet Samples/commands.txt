@@ -1,0 +1,3 @@
+java -classpath C:\bats\xalan.jar org.apache.xalan.xslt.Process -in books.xml -xsl booklist.xsl -out output.html
+
+java -classpath C:\bats\xalan.jar org.apache.xalan.xslt.Process -in feed.xml -xsl SortedTitles.xsl -out output.html
