@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4 Oct, 2015, 2:37:03 PM
+    Author     : nandi_000
+*/
+/*
+styling parameters for all h2 elements
+*/
+h2 {
+    color: #000080;
+    margin-left: 20px;
+}
+/* styling parameters for the table
+*/
+table {
+    margin-left: 20px;
+    color: #8A2BE2;
+    background-color: yellow;
+}
